@@ -1,3 +1,4 @@
+package solutions;
 public class Solution11 {
     public static void main(String[] args) {
         int[] heights = { 1, 1 };
